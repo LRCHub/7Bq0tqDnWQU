@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛に生きて",
+  "base_artist": "YUKI",
+  "createdAt": "2026-02-08T07:39:39.962389Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛に生きて",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_01_愛に生きて_YUKI.txt"
+    }
+  ]
+}
